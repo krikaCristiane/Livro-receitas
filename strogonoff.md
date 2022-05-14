@@ -1,8 +1,9 @@
-  Strogonoff de Frango
+# Strogonoff de Frango 🐔#
 
- Igredientes 
+**Ingredientes**
 
-3 peitos de frango cortados em cubos
+# 3 peitos de frango cortados em cubos
+
 1 dente de alho picado
 sal e pimenta a gosto
 1 cebola picada
@@ -13,6 +14,8 @@ sal e pimenta a gosto
 1 copo de cogumelos
 1 copo de creme de leite
 batata palha a gosto
+
+**Modo de preparo**
 
 
 Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
@@ -25,4 +28,4 @@ Adicione os cogumelos, o ketchup e a mostarda.
 
 Incorpore o creme de leite e retire do fogo antes de ferver.
 
-Sirva com arroz branco e batata palha.
+Sirva com arroz branco e batata palha.4
